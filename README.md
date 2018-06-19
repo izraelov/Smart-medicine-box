@@ -7,4 +7,7 @@ This post describes a prototype of a smart medication dispenser, created with an
 
 ![alt text](https://github.com/izraelov/Smart-medicine-box/blob/master/pic.png?raw=true)
 
+![alt text](https://github.com/izraelov/Smart-medicine-box/blob/master/IMG_20180619_195949__01__01.jpg?raw=true)
+
+
 
